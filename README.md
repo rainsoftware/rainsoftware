@@ -10,7 +10,7 @@
 
 - Made D&R a known yet small development studio.
 - Maintained & Improved projects people no longer wanted to maintain via forks.
-- Expanded our activity in multiple communitys like roblox & sensor happy school systems.
+- Expanded our activity in multiple communitys like roblox & censor happy school systems.
 
 ## Favorite Projects
 
