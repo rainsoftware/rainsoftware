@@ -1,6 +1,8 @@
-# Hello, I'm John!
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-Co-Founder and lead developer at dusk and rain studios.
+**I'm John the Co-Founder and lead developer at dusk and rain studios.**
 
 ## Work Experience
 
