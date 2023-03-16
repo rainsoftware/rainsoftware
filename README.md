@@ -29,7 +29,7 @@ Source unblocker is a unblocker made for use at schools that abuse their ability
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnteBrown&show_icons=true&theme=gruvbox)
 
-## Preferred Languages & Tools & OS
+## Our Teams Preferred Languages & Tools & OS
 <details>
   <summary>Langs</summary>
   
