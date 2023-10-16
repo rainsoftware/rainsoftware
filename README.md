@@ -2,7 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-**I'm John the Co-Founder and lead developer at dusk and rain studios.**
+**welcome to rainsoftware**
+
+**founded by Rainyonrecord & co-founder John Brown**
 
 ## Work Experience
 
